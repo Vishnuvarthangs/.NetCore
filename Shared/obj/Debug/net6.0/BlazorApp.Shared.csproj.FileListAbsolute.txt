@@ -1,0 +1,11 @@
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.deps.json
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.dll
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.pdb
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfo.cs
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.dll
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\refint\BlazorApp.Shared.dll
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.pdb
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\BlazorHostApp\BlazorApp\Shared\obj\Debug\net6.0\ref\BlazorApp.Shared.dll
