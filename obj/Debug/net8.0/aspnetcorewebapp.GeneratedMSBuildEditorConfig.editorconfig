@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Infinijith/Vishnu/Work/Learn/.NetCore/LearnCore/aspnetcorewebapp/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infinijith/Vishnu/Work/Learn/.NetCore/LearnCore/aspnetcorewebapp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

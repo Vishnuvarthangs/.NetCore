@@ -58,3 +58,4 @@ D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp\obj\Debug\ne
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp\obj\Debug\net8.0\aspnetcorewebapp.pdb
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp\obj\Debug\net8.0\aspnetcorewebapp.genruntimeconfig.cache
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp\obj\Debug\net8.0\ref\aspnetcorewebapp.dll
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\aspnetcorewebapp\obj\Debug\net8.0\aspnetcorewebapp.sourcelink.json
