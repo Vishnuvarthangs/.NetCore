@@ -45,7 +45,6 @@ alt="Video Tutorial for Asp.Net Core MVC & Identity UI - User Registration and L
 |            Crystal Report | https://goo.gl/5Vou7t  |     |
 | CG Exercises in C Program | https://goo.gl/qEWJCs  |     |
 
-
 ```
 ## Git setup
 ```
@@ -74,11 +73,12 @@ git remote add origin https://github.com/Vishnuvarthangs/.NetCore.git
 
 --git push -u origin Asp.Net-Core-MVC-Identity-User-Auth-System
 
-
-
+git push -f origin Asp.Net-Core-MVC-Identity-User-Auth-System
 
 https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-forward
 
 https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches
+
+```
 
 ```

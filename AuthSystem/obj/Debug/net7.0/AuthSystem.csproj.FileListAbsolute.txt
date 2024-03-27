@@ -1135,3 +1135,4 @@ D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\Asp.Net-Core-MVC-Identity-Use
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\Asp.Net-Core-MVC-Identity-User-Auth-System\AuthSystem\obj\Debug\net7.0\AuthSystem.pdb
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\Asp.Net-Core-MVC-Identity-User-Auth-System\AuthSystem\obj\Debug\net7.0\AuthSystem.genruntimeconfig.cache
 D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\Asp.Net-Core-MVC-Identity-User-Auth-System\AuthSystem\obj\Debug\net7.0\ref\AuthSystem.dll
+D:\Infinijith\Vishnu\Work\Learn\.NetCore\LearnCore\Asp.Net-Core-MVC-Identity-User-Auth-System\AuthSystem\obj\Debug\net7.0\AuthSystem.sourcelink.json
